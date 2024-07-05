@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d2dc641-9f23-4f90-b156-c7dcbcc03455" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../build/.idea/build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/CancelOrderClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/CartDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/CartSymbolController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/ChangeAdPasswordController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/ChangePasswordClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/DeleteClientAdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/DeleteProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/EditClientInfoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/HistoryOrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/LoginAdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/LoginClientCon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/ProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/ProductDetailController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/QuantityController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/RemoveCartContr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/SearchController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/SignUpClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/controlller/UpdateProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/CartDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/ClientDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/ClientInfoDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/DBconnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/OrderAdminDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/dao/ProductDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/model/Cart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/model/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/model/ClientInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/model/OrderAd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/model/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/util/Encoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documents/Mau-BC-lap-trinh-6.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documents/Slide-Java.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/controlller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/controlller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/controlller/QuantityController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/controlller/QuantityController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/dao/CartDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/dao/CartDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/dao/ClientDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/dao/ClientDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/dao/OrderAdminDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/dao/OrderAdminDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/dao/ProductDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/dao/ProductDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build/classes/util/Encoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../build/classes/util/Encoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../create database ProjectShop.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../electrofinal.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/java/controlller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/controlller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thankyou.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ioS7p5BQA9JyjAyUI9JeR0ppuB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/lud/Documents/ProjectShop/src"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d2dc641-9f23-4f90-b156-c7dcbcc03455" name="Changes" comment="" />
+      <created>1720155271609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720155271609</updated>
+    </task>
+    <servers />
+  </component>
+</project>
